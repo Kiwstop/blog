@@ -56,7 +56,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "/favicon/avatar.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Kiwstop's Farland",
-	bio: "bio: /*等我想一个*/",
+	bio: "这里要写什么呢，还没想好~",
 	links: [
 		{
 			name: "Twitter",
