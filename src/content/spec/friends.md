@@ -2,12 +2,12 @@
 
 ## 友链
 
-在下面的评论区按照格式回复你的博客的信息就可以加友链啦~
+在下面的评论区按照格式回复你的博客的信息添加友链
 
 ```
 title: 'Kiwstop's Farland',
 imgurl: 'https://kiwstop.me/favicon/avatar.webp',
-desc: '/*等我想一个*/',
+desc: '/*还没想好*/',
 siteurl: 'https://kiwstop.me',
 ```
 
